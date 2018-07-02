@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1491549066 source:c:\users\toshiba\documents\github\car-sales-information-system\car sales information system\linkedlisttype.cpp
+	"linkedlisttype.h"
+	<iostream>
+
+1491669839 c:\users\toshiba\documents\github\car-sales-information-system\car sales information system\linkedlisttype.h
+	<string>
+
+1530462628 source:c:\users\toshiba\documents\github\car-sales-information-system\car sales information system\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	"Unordered.h"
+	"Ordered.h"
+	"linkedlisttype.h"
+
+1491664603 c:\users\toshiba\documents\github\car-sales-information-system\car sales information system\unordered.h
+	<string>
+	<stdlib.h>
+	<fstream>
+	"linkedlisttype.h"
+
+1491790188 c:\users\toshiba\documents\github\car-sales-information-system\car sales information system\ordered.h
+	"linkedlisttype.h"
+
+1491716887 source:c:\users\toshiba\documents\github\car-sales-information-system\car sales information system\ordered.cpp
+	"Ordered.h"
+	<string>
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1491557571 source:c:\users\toshiba\documents\github\car-sales-information-system\car sales information system\unordered.cpp
+	"Unordered.h"
+	"linkedlisttype.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
